@@ -1,4 +1,4 @@
-# Deployment Link - https://whatsapp-chat-data-analysis-2024.streamlit.app/
+**Deployment Link**: https://whatsapp-chat-data-analysis-2024.streamlit.app/
 # WhatsApp Chat Analyzer
 
 Welcome to the WhatsApp Chat Analyzer! This interactive application is designed to help you gain valuable insights from your WhatsApp chat data. Whether you're interested in understanding message trends, exploring word usage, or analyzing emojis, this tool has got you covered.
