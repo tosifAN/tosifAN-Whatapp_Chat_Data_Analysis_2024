@@ -53,10 +53,6 @@ WhatsApp Chat Analyzer provides a comprehensive set of features including statis
 
 Ready to explore your WhatsApp chat data? Clone this repository, install the required packages, and run the Streamlit app to get started!
 
-## Contributors
-
-- [Tosif Ansari](https://github.com/tosifAN)
-- [Ankit Singh](https://github.com/)
 
 ## License
 
